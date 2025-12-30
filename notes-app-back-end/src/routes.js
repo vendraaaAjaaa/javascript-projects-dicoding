@@ -1,4 +1,4 @@
-const { method } = require('lodash');
+// const { method } = require('lodash');
 const {
   addNoteHandler,
   getAllNotesHandler,
